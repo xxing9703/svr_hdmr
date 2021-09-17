@@ -1,7 +1,7 @@
 # svr_hdmr
 This is a software package with GUI. that combines support vector machine with high dimensional model representation. The mathematic foundation is based on this paper:
 
-Li, Genyuan et al. “High dimensional model representation constructed by support vector regression. I. Independent variables with known probability distributions.” Journal of Mathematical Chemistry 55 (2016): 278-303.
+Genyuan Li, Xi Xing et al. “High dimensional model representation constructed by support vector regression. I. Independent variables with known probability distributions.” Journal of Mathematical Chemistry 55 (2016): 278-303.
 
 Please refer to the "SVR-HDMR software user’s guide.pdf" for details on how to use this software
 
